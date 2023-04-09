@@ -1,7 +1,7 @@
-# Automatic Water Level Controller
+# Automatic Street Light Controller
 
 ##  AIM:
-To design and implement the automatic water level controller using Arduino UNO controller.
+To design and implement Automatic Street Light controller using Arduino UNO controller.
 
 ## Software required:
 Arduino IDE </br>
@@ -33,4 +33,4 @@ Step13:Click start button and check the output
 ## OUTPUT:
 
 ## RESULT:
-Thus the automatic water level controller was implemented using Arduino UNO controller.
+Thus the Automatic Street Light controller was implemented using Arduino UNO controller.
